@@ -1,5 +1,7 @@
 # Database modeling - kata 1
 
+## 
+
 #### Introduction
 
 This is a kata about database modeling.
