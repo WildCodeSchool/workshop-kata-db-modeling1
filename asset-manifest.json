@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/workshop-kata-db-modeling1/static/js/main.15bacdeb.chunk.js",
+    "main.js.map": "/workshop-kata-db-modeling1/static/js/main.15bacdeb.chunk.js.map",
+    "runtime~main.js": "/workshop-kata-db-modeling1/static/js/runtime~main.0791a634.js",
+    "runtime~main.js.map": "/workshop-kata-db-modeling1/static/js/runtime~main.0791a634.js.map",
+    "static/js/2.4fa029f1.chunk.js": "/workshop-kata-db-modeling1/static/js/2.4fa029f1.chunk.js",
+    "static/js/2.4fa029f1.chunk.js.map": "/workshop-kata-db-modeling1/static/js/2.4fa029f1.chunk.js.map",
+    "index.html": "/workshop-kata-db-modeling1/index.html",
+    "precache-manifest.1140444b79a4c480568da8d10a83e98a.js": "/workshop-kata-db-modeling1/precache-manifest.1140444b79a4c480568da8d10a83e98a.js",
+    "service-worker.js": "/workshop-kata-db-modeling1/service-worker.js"
+  }
+}
