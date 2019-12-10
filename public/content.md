@@ -1,10 +1,10 @@
-# Database modeling - kata 1
+# Database modeling 1
 
-## 
+## Kata
 
 #### Introduction
 
-This is a kata about database modeling.
+A code kata is an exercise in programming which helps programmers hone their skills through practice and repetition: repeat this exercice every day during one week :)
 
 #### It's all about concepts
 
